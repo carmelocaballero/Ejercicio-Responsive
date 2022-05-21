@@ -6,7 +6,7 @@
 
 body {
   color: black;
-  background: whitesmoke;
+  background: rgb(202, 183, 183);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
@@ -27,6 +27,7 @@ h2 {
   margin-top: 30px;
   background: rgb(175, 122, 197);
   text-align: center;
+  margin: 1px solid black;
 }
 
 .sidebar {
@@ -42,10 +43,11 @@ h2 {
 .sidebar {
   background: rgb(26, 82, 118);
   text-align: center;
+  margin: 10px solid black;
 }
 
 .footer {
   background: rgb(175, 122, 197);
   text-align: center;
-  color: white;
+  color: black;
 }
